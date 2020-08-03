@@ -1,0 +1,12 @@
+Input files:
+1. [*.mutinfo] The atomic information are recorded. Example files are 1a43_A_G156A_mut.mutinfo and 1a43_A_wild_156.mutinfo. 
+   Each line corresponds to an atom and the format is residue ID, atom type, and x, y, z, coordinates. The five entries are separated with space.
+
+Output file:
+1. [X.npy] A numpy array containing the 1D image like feature of the mutation instance.
+
+Usage:
+python MutationFeature.py $WildName $MutName $ResIDOfMutationSite
+
+Example usage:
+python MutationFeature.py 1a43_A_wild_156 1a43_A_G156A_mut 156
