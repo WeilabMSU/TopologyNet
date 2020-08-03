@@ -1,0 +1,7 @@
+Sys.getenv("R_LIBS_USER")
+library("TDA")
+args = commandArgs(trailingOnly=TRUE)
+X = read.csv(args[1])
+DiagAlphaComplex <- alphaShapeDiag(X=X)
+sink(args[2])
+print(DiagAlphaComplex[["diagram"]])
