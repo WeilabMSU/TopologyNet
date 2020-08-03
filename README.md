@@ -14,4 +14,5 @@ See the folder ``Protein-ligand-binding``. The source codes are in the folder ``
 
 ### Reference
 [Cang, Zixuan, Lin Mu, and Guo-Wei Wei. "Representability of algebraic topology for biomolecules in machine learning based scoring and virtual screening." PLoS computational biology 14.1 (2018): e1005929.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005929)
+
 [Cang, Zixuan, and Guo-Wei Wei. "TopologyNet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions." PLoS computational biology 13.7 (2017): e1005690.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005690)
