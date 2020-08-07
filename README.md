@@ -12,6 +12,9 @@ See the folder ``Protein-ligand-binding``. The source codes are in the folder ``
 2. [R-TDA](https://cran.r-project.org/web/packages/TDA/index.html)
 3. Numpy
 
+### Web server
+Upload your molecules and get immediate prediction for protein-ligand binding affinity on our [TML-BP server](https://weilab.math.msu.edu/TML/TML-BP/) or [TDL-BP server](https://weilab.math.msu.edu/TDL/TDL-BP/).
+
 ### Reference
 [Cang, Zixuan, Lin Mu, and Guo-Wei Wei. "Representability of algebraic topology for biomolecules in machine learning based scoring and virtual screening." PLoS computational biology 14.1 (2018): e1005929.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005929)
 
@@ -26,6 +29,9 @@ See the folder ``Protein-mutation``. A mutation example (PDB:1A43 chain A residu
 ### Dependency
 1. [Dionysus](https://www.mrzv.org/software/dionysus/)
 2. Numpy
+
+### Web server
+Upload your molecules and get immediate prediction for mutation induced protein stability change on our [TML-MP server](https://weilab.math.msu.edu/TML/TML-MP/) or [TDL-MP server](https://weilab.math.msu.edu/TDL/TDL-MP/).
 
 ### Reference
 [Cang, Zixuan, and Guo-Wei Wei. "TopologyNet: Topology based deep convolutional and multi-task neural networks for biomolecular property predictions." PLoS computational biology 13.7 (2017): e1005690.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005690)
